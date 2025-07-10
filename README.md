@@ -21,6 +21,7 @@ Este projeto é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida 
 ## 💻 Imagem da aplicação
 
 ![Calculadora de IMC](./img/img.1.png)
+![Calculadora de IMC](./img/img.2.png)
 
 
 
